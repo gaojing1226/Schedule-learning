@@ -89,3 +89,5 @@ car.owner = "Johnson";
 const car = {type:"Fiat", model:"500", color:"white"};
 car = {type:"Volvo", model:"EX60", color:"red"};    // 错误
 ```
+#### 四. 闭包
+嵌套的函数可以访问在其外部声明的变量。
